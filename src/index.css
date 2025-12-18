@@ -4,14 +4,12 @@
 
 
 @theme {
-  --color-*: initial;
-  --color-white: #fff;
-  --color-purple: #3f3cbb;
-  --color-midnight: #121063;
-  --color-tahiti: #3ab7bf;
-  --color-bermuda: #78dcca;
+  /* --color-*: initial; */
+  --color-myGreen: #2EBB77;
   --color-lightGreen: #F6FDEC;
   --color-darkGreen: #DBF4E2;
+  --color-myPurple: #B479D9;
+  --color-myGray: #7E7E7E;
 }
 
 body {
