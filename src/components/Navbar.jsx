@@ -152,6 +152,8 @@ const Navbar = () => {
               border-t
               border-gray-200
               z-50
+              overflow-y-auto
+              max-h-[calc(100vh-4rem)]
             "
           >
             <div className="px-4 sm:px-6 py-5">
